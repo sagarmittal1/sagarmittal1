@@ -4,7 +4,7 @@ Let's get started:
 
 - 🔭 I’m currently working on a Blog Website for my friend
 - 🌱 I’m currently learning Jekyll
-- 👯 I’m looking to collaborate on Front End Technology
+- 👯 I’m looking to collaborate on Front End Technologies
 - 🤔 I’m looking for help with AngularJS
 - 💬 Ask me about cryptography, networking, privacy
 - 😄 Pronouns: he/him
