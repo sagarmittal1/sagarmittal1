@@ -13,7 +13,7 @@ Let's get started:
 
 ### Stats
 
-[![Sagar's github stats](https://github-readme-stats.vercel.app/api?username=sagarmittal1&theme=radical&show_icons=true)](https://github.com/sagarmittal1/github-readme-stats)
+[![Sagar's github stats](https://github-readme-stats.vercel.app/api?username=sagarmittal1&theme=radical&show_icons=true)]
 
 <a href="https://www.linkedin.com/in/sagarmittal5/">
 <img align="left" alt="Sagar Mittal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
