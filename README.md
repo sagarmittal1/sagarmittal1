@@ -24,3 +24,5 @@ Let's get started:
 <a href="https://www.instagram.com/sagar_mittal5/">
 <img align="left" alt="Sagar Mittal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+<br><br> ![](https://komarev.com/ghpvc/?username=sagarmittal1&color=20B2AA&label=Stalker+Alert)
