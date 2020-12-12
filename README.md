@@ -27,7 +27,7 @@ Let's get started:
   
 </p>
 
-<br><br> ![](https://komarev.com/ghpvc/?username=sagarmittal1&color=20B2AA&label=Views)
+![](https://komarev.com/ghpvc/?username=sagarmittal1&color=20B2AA&label=Views)
 
 <!--
 <a href="https://auth.geeksforgeeks.org/user/vivekpatel7202" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="vivekpatel7202" height="30" width="40" /></a>
