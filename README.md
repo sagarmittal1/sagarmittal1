@@ -2,12 +2,10 @@
 
 So, who I am
 
-- 🔭 I’m currently doing #100DaysOfCode
-- 🌱 I’m currently learning DSA and NodeJS
+- 🌱 I’m currently learning `Data Structures` and `Python`
 - 👯 I’m looking to collaborate on Competitive Coding
-- 💬 Ask me about cryptography, networking, privacy, jekyll
+- 💬 Ask me about cryptography, networking, privacy, jekyll, C++
 - 😄 Pronouns: he/him
-- 📫 How to reach me: Below Links
 
 
 ### Stats
