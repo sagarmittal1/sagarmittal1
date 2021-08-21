@@ -34,6 +34,10 @@ So, who I am
 
 <br> ![](https://komarev.com/ghpvc/?username=sagarmittal1&color=20B2AA&label=Views)
 
+[![Codechef](https://cp-logo.vercel.app/codechef/mittal_sagar)](https://www.codechef.com/users/mittal_sagar)&nbsp;&nbsp;&nbsp;
+[![Codeforces](https://cp-logo.vercel.app/codeforces/mittal_sagar)](https://codeforces.com/profile/mittal_sagar)&nbsp;&nbsp;&nbsp;
+[![Atcoder](https://cp-logo.vercel.app/atcoder/mittal_sagar)](https://atcoder.jp/users/mittal_sagar)
+
 <!--
 <center>
 <h2 align="center">Git Hub Stats</h2>
