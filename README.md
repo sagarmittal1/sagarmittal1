@@ -4,7 +4,7 @@ So, who I am
 
 - 🌱 I’m currently learning `React` and `JavaScript`
 - 👯 I’m looking to collaborate on Frontend Development
-- 💬 Ask me about HTML, CSS, JavaScript, Jekyll, C++
+- 💬 Ask me about HTML, CSS, JavaScript, React, C, C++, Jekyll
 - 😄 Pronouns: he/him
 
 
