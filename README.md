@@ -1,18 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> , I'm Sagar Mittal 👨🏻‍💻</h1> 
 
-So, who I am
 
+## 💫 About Me:
 - 🌱 I’m currently learning `React` and `JavaScript`
 - 👯 I’m looking to collaborate on Frontend Development
 - 💬 Ask me about HTML, CSS, JavaScript, React, C, C++, Jekyll
 - 😄 Pronouns: he/him
 
 
-### Stats
+## 📈 Stats:
 
 ![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarmittal1&theme=onedark&show_icons=true)
 
-<h3 align="left">Connect with me:</h3>
+![](https://komarev.com/ghpvc/?username=sagarmittal1&color=069d78&label=Profile%20Views)
+
+## 🌐 Connect with me:
 <p align="left">
 <a href="https://twitter.com/sagar_mittal5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagar_mittal5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sagarmittal5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarmittal5" height="30" width="40" /></a>
@@ -27,7 +29,8 @@ So, who I am
 <a href="https://www.hackerearth.com/@mittal_sagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mittal_sagar" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠 Language & Tools: 
+<!-- <h3 align="left">Languages and Tools:</h3> -->
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -42,4 +45,9 @@ So, who I am
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<br> ![](https://komarev.com/ghpvc/?username=sagarmittal1&color=20B2AA&label=Views)
+
+
+<div align="center">
+  
+### Show some ❤️ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some of the repositories!
+</div>
