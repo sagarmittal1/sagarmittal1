@@ -4,16 +4,9 @@
 
 ## 💫 About Me:
 
-Hey! I’m Sagar, I am frontend developer. I build elegant & functional web apps. My expertise is in React, JavaScript, TailwindCSS & various other tech stacks. I also like to design UI/UX. I learn things by doing it. I am building various side projects that you can find here.
+Hey! I’m Sagar, I am frontend developer. I build elegant & functional web apps. My expertise is in React, JavaScript, TailwindCSS & various other tech stacks. I also like to design UI/UX.
 
 I am actively looking for internships & remote work. For anything do reach my [email](mailto:mittalsagar006@gmail.com) or [LinkedIn](https://linkedin.com/in/sagarmittal5)
-
-- 🔭 I’m currently working on [gym typescript website](https://github.com/sagarmittal1/gym-typescript)
-- 🌱 I’m currently learning **NextJS, TypeScript**
-- 💬 Ask me about **ReactJS, MaterialUI**
-- 📫 How to reach me [email](mailto:mittalsagar006@gmail.com) or [LinkedIn](https://linkedin.com/in/sagarmittal5)
-- ⚡ Fun fact **I regularly do touch typing. I want to reach 120+ WPM 😝**
-<!-- - 👨‍💻 All of my projects are available at [https://sagarmittal.vercel.app](https://sagarmittal.vercel.app) -->
 
 ## 📈 Stats:
 
