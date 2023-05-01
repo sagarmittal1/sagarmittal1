@@ -1,16 +1,14 @@
-
-
-<h1 align="center">Hey 👋, I'm Sagar Mittal 👨‍💻</h1>
+<!-- <h1 align="center">Hey 👋, I'm Sagar Mittal 👨‍💻</h1> -->
 
 ## 💫 About Me:
 
-Hey! I’m Sagar, I am frontend developer. I build elegant & functional web apps. My expertise is in React, JavaScript, TailwindCSS & various other tech stacks. I also like to design UI/UX.
+Hey! 👋 I’m Sagar, I am frontend developer. I build elegant & functional web apps. My expertise is in React, JavaScript, TailwindCSS & various other tech stacks. I also like to design UI/UX.
 
 I am actively looking for internships & remote work. For anything do reach my [email](mailto:mittalsagar006@gmail.com) or [LinkedIn](https://linkedin.com/in/sagarmittal5)
 
 ## 📈 Stats:
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sagarmittal1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarmittal1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
@@ -38,8 +36,3 @@ I am actively looking for internships & remote work. For anything do reach my [e
 ## 🛠 Language & Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,git,flutter,linux,vscode,react,nextjs,materialui,vite,tailwind&perline=10)](https://skillicons.dev)
-
-<div align="center">
-  
-### Show some ❤️ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some of the repositories!
-</div>
